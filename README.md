@@ -1,6 +1,6 @@
 ## Weather widget (as web-component)
 
-This is test task for Plumsoil. 
+This is test task
 
 ```bash
 bun install
